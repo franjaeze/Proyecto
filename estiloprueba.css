@@ -1,0 +1,40 @@
+.caja1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: block;
+}
+
+
+.caja2 {
+    width: 200px;
+    height: 200px;
+    background: black;
+   position: relative;
+    display: block;
+    position: relative;
+    bottom: 200px;
+    left: 210px;
+}
+
+.caja3 {
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: block;
+    position: relative;
+    bottom: 400px;
+    left: 420px;
+}
+.caja4 {
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: block;  
+    position: relative;
+    bottom: 600px;
+    left: 630px;  
+}
+h1 {
+    color: red;
+}
